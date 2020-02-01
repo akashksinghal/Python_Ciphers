@@ -6,7 +6,7 @@ This repository is compilation of various *Python Ciphers* which somehow automat
 ## Projects
 
 |Project Name | Contributor|
-|Text-Regonition| [Akash Kumar Singhal](https://github.com/akashksinghal)|
-
+|--|--|
+|[Text Regonition](https://github.com/akashksinghal/Python_Ciphers/tree/master/Text-Regonition)| [Akash Kumar Singhal](https://github.com/akashksinghal)|
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-@akashksinghal%20and%20@akshat80-red)](https://github.com/akashksinghal/Python_Ciphers)
