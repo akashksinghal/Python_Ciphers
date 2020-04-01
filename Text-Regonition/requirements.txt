@@ -1,2 +1,2 @@
 pytesseract
-Pillow==6.2.0
+Pillow>=6.2.0
