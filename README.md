@@ -9,7 +9,6 @@ This repository is compilation of various *Python Ciphers* which somehow automat
 |--|--|
 |[Text Regonition](https://github.com/akashksinghal/Python_Ciphers/tree/master/Text-Regonition)| [Akash Kumar Singhal](https://github.com/akashksinghal)|
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-@akashksinghal%20and%20@akshat80-red)](https://github.com/akashksinghal/Python_Ciphers)
 
 ## How to use :
 
@@ -42,3 +41,5 @@ Remember to star the repo if you love the scripts~ :wink:
             - `pip freeze > requirements.txt`
 
 - Please add your script in the [Project's list](https://github.com/akashksinghal/Python_Ciphers#Projects) above.
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-@akashksinghal%20and%20@akshat80-red)](https://github.com/akashksinghal/Python_Ciphers)
