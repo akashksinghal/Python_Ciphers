@@ -1,1 +1,1 @@
-# Text-Regonition
+# Text-Recognition
