@@ -9,6 +9,7 @@ This repository is compilation of various *Python Ciphers* which somehow automat
 |--|--|
 |[Text Regonition](https://github.com/akashksinghal/Python_Ciphers/tree/master/Text-Regonition)| [Akash Kumar Singhal](https://github.com/akashksinghal)|
 |[Vigenère Cipher](https://github.com/akashksinghal/Python_Ciphers/tree/master/Vigenère-Cipher)| [Atharva Kadlag](https://github.com/atharvakadlag)|
+|[Web Scraper](https://github.com/akashksinghal/Python_Ciphers/tree/master/Flask_web_app)| [Neeraj Bhadani](https://github.com/neeraj-bhadani)|
 
 
 ## How to use :
