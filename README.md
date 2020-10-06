@@ -8,6 +8,7 @@ This repository is compilation of various *Python Ciphers* which somehow automat
 |Project Name | Contributor|
 |--|--|
 |[Text Regonition](https://github.com/akashksinghal/Python_Ciphers/tree/master/Text-Regonition)| [Akash Kumar Singhal](https://github.com/akashksinghal)|
+|[Vigenère Cipher](https://github.com/akashksinghal/Python_Ciphers/tree/master/Vigenère-Cipher)| [Atharva Kadlag](https://github.com/atharvakadlag)|
 
 
 ## How to use :
