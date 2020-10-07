@@ -10,6 +10,7 @@ This repository is compilation of various *Python Ciphers* which somehow automat
 |[Text Regonition](https://github.com/akashksinghal/Python_Ciphers/tree/master/Text-Regonition)| [Akash Kumar Singhal](https://github.com/akashksinghal)|
 |[Vigenère Cipher](https://github.com/akashksinghal/Python_Ciphers/tree/master/Vigenère-Cipher)| [Atharva Kadlag](https://github.com/atharvakadlag)|
 |[News Scaper](https://github.com/MayankGeek/Python_Ciphers/tree/master/News_Scraper)| [Mayank Sharma](https://github.com/MayankGeek)|
+|[phonenum and email extractor](https://github.com/MayankGeek/Python_Ciphers/tree/master/phn_num_and_email_extractor) | [randy1369](https://github.com/randy1369)|
 
 
 ## How to use :
