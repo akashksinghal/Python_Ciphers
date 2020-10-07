@@ -1,14 +1,14 @@
 import PIL.Image
 
-ASCII = ["@","#","S","%","?","*","+",";",":",",","."]
+ASCII = ["@","#","&","%","$","*","/",";",":",",","."]
 
-
-def resize(image, new_width=100):
+#Resizing the image to be o
+def resize(image, new_width=130):
     width, height = image.size
     ratio = height / width
-    new_height = int(new_width*ratio)
+    new_height = int(new_width*ratio-60*ratio)
     
-    return image.resize((new_width,new_height))
+    return image.resize((new_width,new_height))  
 
 def greyscale(image):
 
@@ -22,11 +22,9 @@ def pixel_ascii(image):
 
     return characters
 
+def main(new_width = 130):
 
-
-def main(new_width = 100):
-
-    path = input("Enter path of the image: (relative or absolute)\n")
+    path = input("Enter path of the image (relative or absolute): \n")
     try:
         image = PIL.Image.open(path)
     except:
