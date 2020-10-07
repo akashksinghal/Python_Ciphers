@@ -1,0 +1,3 @@
+pyperclip 
+regex
+pip
