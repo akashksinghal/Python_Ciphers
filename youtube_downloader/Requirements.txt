@@ -1,0 +1,7 @@
+Libraries          Version
+pytube              9.6.0
+youtue-dl           2020.5.29
+youtube-downloader  0.2.1
+tkinter
+pytube3             9.6.4
+         
